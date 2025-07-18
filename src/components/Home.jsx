@@ -12,8 +12,7 @@ const curriculum = {
   cedula: "1755620042",
   edad: 18,
   carrera: "Desarrollo de Software / Ingeniería en Sistemas",
-  delitos: 0,
-  lema: "Orgullosamente ladrón del Tuti",
+  lema: "Codificando soluciones, creando el mañana.",
   imagen: "/data/alan.jpg"
 }
 
