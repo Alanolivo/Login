@@ -7,7 +7,7 @@ const LeftArrowIcon = '◀'
 const RightArrowIcon = '▶'
 
 const curriculum = {
-  usuario: "Alan Xavier",
+  usuario: "AlanXavier",
   nombreCompleto: "Alan Xavier Olivo Paredes",
   cedula: "1755620042",
   edad: 18,
@@ -43,7 +43,6 @@ const renderContent = () => {
           <p><strong>Cédula:</strong> {curriculum.cedula}</p>
           <p><strong>Edad:</strong> {curriculum.edad}</p>
           <p><strong>Carrera:</strong> {curriculum.carrera}</p>
-          <p><strong>Delitos:</strong> {curriculum.delitos}</p>
           <p><strong>Lema:</strong> "{curriculum.lema}"</p>
         </div>
       )
