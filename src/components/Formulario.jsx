@@ -66,7 +66,7 @@ export function Formulario({ setUser }) {
           />
           {error && <div className="text-danger text-center">{error}</div>}
           <ReCAPTCHA
-            sitekey="6LcIzIUrAAAAAMcdYy8pWVXuRwlkfWzPoSKND8fl"
+            sitekey="6LcIzIUrAAAAAPKML-EF4BXYPkL-2YxaJSrCVIXH"
             onChange={(value) => setCapVal(value)}
           />
           <button disabled={!capVal} className="btn btn-primary" type="submit">
