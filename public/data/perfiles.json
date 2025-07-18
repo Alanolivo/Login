@@ -1,0 +1,22 @@
+[
+  {
+    "usuario": "Alan Xavier",
+    "nombreCompleto": "Alan Xavier Olivo Paredes",
+    "cedula": "1755620042",
+    "edad": 18,
+    "carrera": "Desarrollo de Software / Ingeniería en Sistemas",
+    "delitos": 0,
+    "lema": "Orgullosamente ladrón del Tuti",
+    "imagen": "/alan.jpg"
+  },
+  {
+    "usuario": "maria23",
+    "nombreCompleto": "María Fernanda Gómez",
+    "cedula": "1723345678",
+    "edad": 19,
+    "carrera": "Enfermería",
+    "delitos": 0,
+    "lema": "La salud primero",
+    "imagen": "/maria.jpg"
+  }
+]
